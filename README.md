@@ -10,6 +10,7 @@
 ![License](https://img.shields.io/github/license/secwexen/secwexen-aappmart)
 ![Python Versions](https://img.shields.io/pypi/pyversions/secwexen-aappmart)
 ![Coverage](https://img.shields.io/codecov/c/github/secwexen/secwexen-aappmart)
+[![Website](https://img.shields.io/website?url=https://aappmart.github.io/)](https://aappmart.github.io/)
 
 ### Autonomous Attack Path Prediction & Multi-Agent Red Team Engine
 
