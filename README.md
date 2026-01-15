@@ -13,7 +13,7 @@
 ![Coverage](https://img.shields.io/codecov/c/github/secwexen/aappmart)
 [![Website](https://img.shields.io/website?url=https://secwexen.github.io/aappmart/)](https://secwexen.github.io/aappmart/)
 
-### AI Autonomous Attack Path Prediction & Multi-Agent Red Team Engine
+### Autonomous Attack Path Prediction & Multi-Agent Red Team Engine
 
 AAPP-MART is an autonomous offensive security engine that predicts attack paths using artificial intelligence and simulates them with a multi-agent red team. By identifying risks before they occur, it forms the world’s first fully automated attack simulation brain.
 
