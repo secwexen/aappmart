@@ -1,0 +1,8 @@
+networkx
+numpy
+pandas
+scikit-learn
+fastapi
+uvicorn
+rich
+pyyaml
