@@ -105,6 +105,8 @@ cd aappmart
 pip install -r requirements.txt
 ```
 
+> ⚠️ Note: Core implementation is still in progress. Some modules may not be functional yet.
+
 ---
 
 ## Quick Start
@@ -118,6 +120,8 @@ engine.run()
 report = engine.get_report()
 print(report)
 ```
+
+> Example usage only. Actual implementation will be added in future releases.
 
 ---
 
