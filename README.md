@@ -8,6 +8,7 @@
 ![CodeQL](https://img.shields.io/github/actions/workflow/status/secwexen/aappmart/codeql.yml?label=CodeQL)
 ![Release](https://img.shields.io/github/v/release/secwexen/aappmart)
 ![License](https://img.shields.io/github/license/secwexen/aappmart)
+![Repo Size](https://img.shields.io/github/repo-size/secwexen/aappmart)
 ![Python Versions](https://img.shields.io/pypi/pyversions/aappmart)
 ![Coverage](https://img.shields.io/codecov/c/github/secwexen/aappmart)
 [![Website](https://img.shields.io/website?url=https://secwexen.github.io/aappmart/)](https://secwexen.github.io/aappmart/)
