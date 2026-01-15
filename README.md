@@ -2,14 +2,14 @@
 
 <p align="center"><img src="docs/logo/aappmart_logo.png" width="300" alt="AAPP-MART Logo"></p>
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/secwexen/secwexen-aappmart/build.yml?label=Build)
-![Lint](https://img.shields.io/github/actions/workflow/status/secwexen/secwexen-aappmart/lint.yml?label=Lint)
-![Python Lint](https://img.shields.io/github/actions/workflow/status/secwexen/secwexen-aappmart/pylint.yml?label=PyLint)
-![CodeQL](https://img.shields.io/github/actions/workflow/status/secwexen/secwexen-aappmart/codeql.yml?label=CodeQL)
-![Release](https://img.shields.io/github/v/release/secwexen/secwexen-aappmart)
-![License](https://img.shields.io/github/license/secwexen/secwexen-aappmart)
-![Python Versions](https://img.shields.io/pypi/pyversions/secwexen-aappmart)
-![Coverage](https://img.shields.io/codecov/c/github/secwexen/secwexen-aappmart)
+![Build Status](https://img.shields.io/github/actions/workflow/status/secwexen/aappmart/build.yml?label=Build)
+![Lint](https://img.shields.io/github/actions/workflow/status/secwexen/aappmart/lint.yml?label=Lint)
+![Python Lint](https://img.shields.io/github/actions/workflow/status/secwexen/aappmart/pylint.yml?label=PyLint)
+![CodeQL](https://img.shields.io/github/actions/workflow/status/secwexen/aappmart/codeql.yml?label=CodeQL)
+![Release](https://img.shields.io/github/v/release/secwexen/aappmart)
+![License](https://img.shields.io/github/license/secwexen/aappmart)
+![Python Versions](https://img.shields.io/pypi/pyversions/aappmart)
+![Coverage](https://img.shields.io/codecov/c/github/secwexen/aappmart)
 [![Website](https://img.shields.io/website?url=https://secwexen.github.io/aappmart/)](https://secwexen.github.io/aappmart/)
 
 ### Autonomous Attack Path Prediction & Multi-Agent Red Team Engine
