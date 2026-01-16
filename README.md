@@ -103,9 +103,8 @@ aappmart/
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/aappmart
+git clone https://github.com/secwexen/aappmart
 cd aappmart
-pip install -r requirements.txt
 
 # (Optional but recommended) Create a virtual environment
 python -m venv venv
