@@ -106,6 +106,14 @@ aappmart/
 git clone https://github.com/yourusername/aappmart
 cd aappmart
 pip install -r requirements.txt
+
+# (Optional but recommended) Create a virtual environment
+python -m venv venv
+source venv/bin/activate  # Linux/macOS
+venv\Scripts\activate     # Windows
+
+# Install dependencies
+pip install -r requirements.txt
 ```
 
 > ⚠️ Note: Core implementation is still in progress. Some modules may not be functional yet.
@@ -160,7 +168,8 @@ See the `LICENSE` file for full details.
 ## Contributing
 
 Contributions are welcome.  
-Please open an issue before submitting major changes or new features.
+Please open an issue before submitting major changes or new features.  
+See `CONTRIBUTING.md` for detailed contribution guidelines.  
 
 ---
 
@@ -201,6 +210,12 @@ The authors and contributors of this project assume no responsibility or liabili
 for any misuse, damage, or legal consequences resulting from the use of this software.
 Users are solely responsible for ensuring compliance with all applicable laws,
 regulations, and organizational policies.
+
+---
+
+## Security
+
+For responsible disclosure and reporting security issues, please see `SECURITY.md`.  
 
 ---
 
