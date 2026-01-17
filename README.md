@@ -19,6 +19,9 @@ AAPP-MART is an autonomous offensive security engine designed for security teams
 It predicts attack paths using artificial intelligence and simulates them with a multi-agent red team,
 helping organizations identify and mitigate risks before they are exploited.  
 
+
+for detailed documentation, please visit [Website](docs/index.md)
+
 ---
 
 ## Overview
