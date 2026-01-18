@@ -196,7 +196,7 @@ pytest
 ## License
 
 This project is licensed under the Apache License, Version 2.0.  
-See the `LICENSE` file for full details.  
+See the [LICENSE](https://github.com/secwexen/aappmart/blob/main/LICENSE) file for full details.  
 
 ---
 
@@ -204,7 +204,7 @@ See the `LICENSE` file for full details.
 
 Contributions are welcome.  
 Please open an issue before submitting major changes or new features.  
-See `CONTRIBUTING.md` for detailed contribution guidelines.  
+See [CONTRIBUTING.md](https://github.com/secwexen/aappmart/blob/main/CONTRIBUTING.md) for detailed contribution guidelines.  
 
 ---
 
@@ -248,13 +248,23 @@ regulations, and organizational policies.
 
 ---
 
+## Support & Contact
+
+For support, questions, or feature requests, please open an issue on GitHub:
+[issues](https://github.com/secwexen/aappmart/issues)
+
+You may also use GitHub Discussions for ideas and general discussions.  
+
+---
+
 ## Security
 
-For responsible disclosure and reporting security issues, please see `SECURITY.md`.  
+For responsible disclosure and reporting security issues, please see [SECURITY.md](https://github.com/secwexen/aappmart/blob/main/SECURITY.md).  
 
 ---
 
 ## Author
 
 **Secwexen**  
+Project Author & Maintainer  
 GitHub: [secwexen](https://github.com/secwexen)  
