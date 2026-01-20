@@ -6,3 +6,6 @@ fastapi
 uvicorn
 rich
 pyyaml
+tqdm
+matplotlib
+requests
