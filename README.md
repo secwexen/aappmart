@@ -133,9 +133,14 @@ git clone https://github.com/secwexen/aappmart.git
 cd aappmart
 
 # 2. (Optional but recommended) Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate     # Windows
+
+# Linux / macOS
+python3 -m venv venv  
+source venv/bin/activate  
+
+# Windows (PowerShell)
+python -m venv venv  
+venv\Scripts\activate  
 
 # 3. Install dependencies
 pip install -r requirements.txt
