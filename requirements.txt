@@ -1,14 +1,22 @@
-networkx
-numpy
-pandas
-scikit-learn
-fastapi
-uvicorn
-rich
-pyyaml
-tqdm
-matplotlib
-requests
-pytest
-pytest-asyncio
-httpx
+# === Core analytics & graph ===
+networkx>=3.2
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+
+# === API layer ===
+fastapi>=0.110
+uvicorn[standard]>=0.27
+
+# === Data validation & configuration ===
+pydantic>=2.6
+pyyaml>=6.0
+
+# === Networking ===
+httpx>=0.26
+requests>=2.31
+
+# === CLI / UX / Visualization ===
+rich>=13.7
+tqdm>=4.66
+matplotlib>=3.8
