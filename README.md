@@ -269,5 +269,6 @@ For responsible disclosure and reporting security issues, please see [SECURITY.m
 
 ## Author
 
-Project Author & Maintainer: **Secwexen**  
-GitHub: [secwexen](https://github.com/secwexen)  
+**Secwexen** – Project Author & Maintainer  
+**Role:** Project Manager | Lead Developer   
+**GitHub:** [github.com/secwexen](https://github.com/secwexen)  
