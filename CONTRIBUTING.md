@@ -1,21 +1,70 @@
 # Contributing to AAPP-MART
 
-Thank you for considering contributing to AAPP-MART!
+Thank you for your interest in contributing to AAPP-MART.
+We welcome contributions that improve code quality, security, and documentation.
 
-## How to Contribute
-- Fork the repository
-- Create a feature branch
-- Commit your changes with clear messages
-- Open a pull request
+---
 
-## Coding Guidelines
-- Follow Python best practices
-- Write clean and readable code
-- Add tests for new features
-- Update documentation when needed
+## Getting Started
+
+1. Fork the repository
+2. Create a new branch from `main`
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+3. Set up a local development environment:
+
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate
+   pip install -r requirements.txt
+   ```
+
+---
+
+## Development Guidelines
+
+* Follow Python best practices (PEP 8)
+* Write clear, readable, and well-documented code
+* Add or update tests for new functionality
+* Avoid introducing breaking changes without discussion
+
+---
+
+## Commit Messages
+
+* Use clear, descriptive commit messages
+* Reference related issues when applicable
+* Squash commits before submitting a pull request
+
+---
 
 ## Pull Requests
-All PRs must:
-- Pass all CI checks
-- Include a clear description
-- Reference related issues if applicable
+
+All pull requests must:
+
+* Be based on the latest `main` branch
+* Pass all CI checks
+* Include a clear description of the changes
+* Reference related issues or discussions when applicable
+
+---
+
+## Security and Ethics
+
+AAPP-MART is a security-focused project.
+Contributions must **not include exploit code**, malware, or content intended for illegal use.
+
+Security issues should be reported according to the [SECURITY.md](SECURITY.md) policy.
+
+---
+
+## Code of Conduct
+
+By participating in this project, you agree to act respectfully and professionally.
+Harassment, abuse, or malicious contributions will not be tolerated.
+
+---
+
+Thank you for helping improve AAPP-MART.
