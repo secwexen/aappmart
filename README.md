@@ -241,6 +241,12 @@ No platform-specific dependencies are required.
 
 ---
 
+## Platform & Safety Notes
+
+- Techniques may perform sensitive actions; use only in isolated lab environments.
+
+---
+
 ## Installation
 
 ```bash
